@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shreeghanesh&#39;s Blog</title>
+    <link>https://sgbcoder.github.io/</link>
+    <description>Recent content on Shreeghanesh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©</copyright>
+    
+	<atom:link href="https://sgbcoder.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://sgbcoder.github.io/about/</link>
+      <pubDate>Sat, 22 Aug 2020 14:56:18 +0530</pubDate>
+      
+      <guid>https://sgbcoder.github.io/about/</guid>
+      <description> \ \ /\ \ /\ \ /::\ \ /::\ \ /::\ \ /::::\ \ /::::\ \ /::::\ \ /::::::\ \ /::::::\ \ /::::::\ \ /:::/\:::\ \ /:::/\:::\ \ /:::/\:::\ \ /:::/__\:::\ \ /:::/ \:::\ \ /:::/__\:::\ \ \:::\ \:::\ \ /:::/ \:::\ \ /::::\ \:::\ \ ___\:::\ \:::\ \ /:::/ / \:::\ \ /::::::\ \:::\ \ /\ \:::\ \:::\ \ /:::/ / \:::\ ___\ /:::/\:::\ \:::\ ___\ /::\ \:::\ \:::\____\/:::/____/ ___\:::| |/:::/__\:::\ \:::| | \:::\ \:::\ \::/ /\:::\ \ /\ /:::|____|\:::\ \:::\ /:::|____| \:::\ \:::\ \/____/ \:::\ /::\ \::/ / \:::\ \:::\/:::/ / \:::\ \:::\ \ \:::\ \:::\ \/____/ \:::\ \::::::/ / \:::\ \:::\____\ \:::\ \:::\____\ \:::\ \::::/ / \:::\ /:::/ / \:::\ /:::/ / \:::\ /:::/ / \:::\/:::/ / \:::\/:::/ / \:::\/:::/ / \::::::/ / \::::::/ / \::::::/ / \::::/ / \::::/ / \::::/ / \::/ / \::/____/ \::/____/ \/____/ ~~  </description>
+    </item>
+    
+  </channel>
+</rss>
